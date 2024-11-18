@@ -1,5 +1,5 @@
 # Assignment 8: Logistic Regression
-
+Link to Demo Video: https://youtu.be/osjtmWkdcbw
 ---
 
 **Goals**:
